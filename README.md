@@ -1,0 +1,7 @@
+- [ ] Create
+    - [ ] Excessão caso exista aluno com a mesma matrícula
+- [ ] Update
+    - [ ] Excessão caso exista aluno com a mesma matrícula
+    - [ ] Excessão de aluno que não existe
+- [ ] Delete
+    - [ ] Excessão de aluno que não existe
